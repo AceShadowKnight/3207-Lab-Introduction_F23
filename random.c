@@ -55,5 +55,7 @@ char randchar(){
 		return 'Y';
 	}else if(num == 26){
 		return 'Z';
+	}else{
+		return;
 	}
 }
